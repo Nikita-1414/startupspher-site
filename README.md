@@ -87,4 +87,6 @@ MIT
 - Images from Unsplash
 - Icons from Heroicons
 - Profile pictures from RandomUser API
-  
+
+## Author
+- Nikita
