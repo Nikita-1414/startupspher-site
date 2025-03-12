@@ -33,7 +33,7 @@ A responsive web application for a startup community platform featuring events, 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/startupsphere.git
+   git clone https://github.com/Nikita-1414/startupspher-site
    cd startupsphere
    ```
 
@@ -87,3 +87,4 @@ MIT
 - Images from Unsplash
 - Icons from Heroicons
 - Profile pictures from RandomUser API
+  
